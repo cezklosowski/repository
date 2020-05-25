@@ -1,1 +1,2 @@
 Zmiana pliku.
+Druga zmiana pliku z mastera.
